@@ -1,4 +1,3 @@
-
 第一步 检出仓库 <br>
 $ git clone /path/to/repository <br>
 
