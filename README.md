@@ -27,4 +27,5 @@ git reset --hard origin/master <br>
 
 PHPBB 3.1 https://www.phpbb.com/downloads/3.1/
 
-一男记单词： https://pan.baidu.com/s/1o8hwsSa#list/path=%2F  提取密码：rfwe
+一男记单词： https://pan.baidu.com/s/1o8hwsSa#list/path=%2F  提取密码：rfwe <br>
+百度网盘书签 javascript:Object.defineProperty(Object.getPrototypeOf(navigator),'platform',{get:function(){return 'sb_baidu';}})
