@@ -29,3 +29,13 @@ PHPBB 3.1 https://www.phpbb.com/downloads/3.1/
 
 一男记单词： https://pan.baidu.com/s/1o8hwsSa#list/path=%2F  提取密码：rfwe <br>
 百度网盘书签 javascript:Object.defineProperty(Object.getPrototypeOf(navigator),'platform',{get:function(){return 'sb_baidu';}})
+
+<br>
+Eclipse.ini 修改
+
+-vm
+C:\Program Files\Java\jre1.8.0_144\bin\server\jvm.dll
+
+改为
+-vm
+C:\Program Files\Java\jdk1.8.0_144\jre\bin\server\jvm.dll
