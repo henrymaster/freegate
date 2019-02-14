@@ -29,3 +29,28 @@ selectionSort(array);
 alert(array);
 </script>
 </html>
+
+选择排序
+for(var i = 0; i < array.length - 1; i++)
+{
+    var minIndex = i;
+    for(var j = i + 1; j < array.length; j++)
+    {
+        if(array[j] < array[i])
+        {
+            minIndex = j;
+        }
+    }
+    
+    if(minIndex != i)
+        swap(array[min], array[i]);
+}
+
+选出数组中最小的元素的编号
+var min = 0;
+for(var j = 1; j < array.length; j++) {
+    if(array[j] < array[min]) {
+        min = j;
+    }
+}
+return min;
