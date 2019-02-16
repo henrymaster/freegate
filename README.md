@@ -39,3 +39,6 @@ C:\Program Files\Java\jre1.8.0_144\bin\server\jvm.dll
 改为
 -vm
 C:\Program Files\Java\jdk1.8.0_144\jre\bin\server\jvm.dll
+
+Spring-Boot速成
+mvn spring-boot:run
